@@ -1,4 +1,5 @@
-Hola, bienvenido a este espacio donde publique mi pequeño programa 
+
+# Hola, bienvenido te muestro mi programa
 
 ![logo del conversor](imagenes/conversor%20de%20monedas.jpg)
 
