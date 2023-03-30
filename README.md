@@ -19,12 +19,12 @@
 
 ### En el conversor de monedas ingresas la cantidad que deseas convertir presionas "ok"  luego te encontraras una ventana donde puedes seleccionar el tipo de moneda ya sea de Quetzales a Dolares, de Quetzales a Libras Esterlinas o viceversa, asi hay mas tipos de monedas a las que puedes probar a convertir.
 
-![video](videos/Monedas.mp4)
+![video](http://recordit.co/m7W8hdT9Qr)
 
 ### Regresando al menu seleccionando si deseas hacer otra conversion puedes probar tambien el conversor de temperatura el cual te pedira ingresar el valor que deseas convertir luego te encontraras con otra ventana donde podras seleccionar a que unidad deseas convertir ya sea de celsius a fahrenheit, de fahrenheit a kelnvin o viceversa.
 
-![video2](videos/Temperatura.mp4)
+![video2](http://recordit.co/5tkLdumSyt)
 
 ### Tambien controle todos los posibles errores ya sea dandole al boton cancelar o en el boton no si ya no quieres seguir haciendo operaciones el programa se cerrara o si ya no quieres hacer una operacion y quieres usar otro conversor podras hacerlo dandole clic en el boton cancelar.
 
-![video3](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FkNTZiYzQ2ZDU4YjU0Y2JkYTRlNzhhMGRjZTU0MThhZDBlYWE5NSZjdD1n/JCzhu7jR0QngPSV76Q/giphy.gif)
+![video3](http://recordit.co/P0FIGckDuW)
